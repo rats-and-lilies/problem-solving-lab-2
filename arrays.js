@@ -41,3 +41,4 @@ for (let i = 0; i < tasks.length; i++) {console.log(`${i + 1}. ${tasks[i]}`);}
 
 //problem 4
 let numbers = [1, 2, 3, 4, 5];
+for (let i = numbers.length; i >= 0; i-- ) {console.log(numbers[i])}
